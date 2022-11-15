@@ -23,7 +23,7 @@ function sendListThe(list){
         
         let li= document.createElement('li');
         li.textContent=x.quote;
-        lista.appendChild(li);
+        thelista.appendChild(li);
         }
     
     }
